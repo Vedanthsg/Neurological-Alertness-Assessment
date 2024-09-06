@@ -57,9 +57,6 @@ To use this project:
 2. Ensure all dependencies are installed (see [Requirements](#requirements)).
 3. Run the Jupyter notebook to preprocess the data, train models, and generate explanations using LIME and SHAP.
 
-## Results
-- The trained model achieved [accuracy/other metrics] on the test set.
-- LIME and SHAP analyses revealed that features like [example features] were most influential in predicting the emotional states.
 
 ## Requirements
 - Python 3
